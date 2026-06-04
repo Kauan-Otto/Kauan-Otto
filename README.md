@@ -5,7 +5,7 @@
 ### ITEM #: `KO-116925492`
 ### Object Class: `Thaumiel`
 
-**CLEARANCE LEVEL: O5 ███ — ▒▒▒▒▒▒▒▒**
+**CLEARANCE LEVEL: O5 ███ — ████████**
 
 `SECURE.` &nbsp;·&nbsp; `CONTAIN.` &nbsp;·&nbsp; `PROTECT.`
 
@@ -21,7 +21,7 @@
 
 ---
 
-### ▓▓ DESCRIPTION
+### ██ DESCRIPTION
 
 Software Engineering student and active researcher stationed at **Site-MAKER Lab** (UNIVILLE, ██████, Santa Catarina). Subject exhibits the following persistent behaviors:
 
@@ -50,7 +50,7 @@ Software Engineering student and active researcher stationed at **Site-MAKER Lab
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![vLLM](https://img.shields.io/badge/vLLM-2D2D2D?style=flat-square&logo=v&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-2D2D2D?style=flat-square)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -74,7 +74,7 @@ Software Engineering student and active researcher stationed at **Site-MAKER Lab
 
 <div align="center">
 
-> *"We ██████ to understand. We ██████ to contain."*
+<em>"We ██████ to understand. We ██████ to contain."</em>
 
 `⚠ END OF FILE — UNAUTHORIZED ACCESS WILL BE LOGGED AND TRACED ⚠`
 
